@@ -131,7 +131,7 @@ Average : 25.0
 
 The program performs a fixed number of operations regardless of the input values.
 
----
+--
 
 ## 🔮 Future Improvements
 
