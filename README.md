@@ -3,7 +3,6 @@
 ## 📌 Overview
 
 This project is a simple Java console application that accepts **four integer values** from the user, calculates their **sum** and **average**, and displays the results.
-
 The program demonstrates the fundamentals of Java programming, including user input, arithmetic operations, variables, and output formatting. It is an ideal beginner project for learning basic programming concepts.
 
 ---
