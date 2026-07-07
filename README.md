@@ -146,7 +146,6 @@ The program performs a fixed number of operations regardless of the input values
 ## 🎯 Learning Outcomes
 
 After completing this project, you will understand:
-
 * How to read user input in Java
 * How to perform arithmetic calculations
 * The difference between integer and floating-point division
