@@ -45,12 +45,10 @@ class SumAverage {
         int n1, n2, n3, n4;
         System.out.print("Enter first number  : ");
         n1 = kbin.nextInt();
-
         System.out.print("Enter second number : ");
         n2 = kbin.nextInt();
         System.out.print("Enter third number  : ");
         n3 = kbin.nextInt();
-
         System.out.print("Enter fourth number : ");
         n4 = kbin.nextInt();
         int sum = n1 + n2 + n3 + n4;
