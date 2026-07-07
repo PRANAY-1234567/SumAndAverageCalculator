@@ -57,7 +57,6 @@ class SumAverage {
 
         int sum = n1 + n2 + n3 + n4;
         float avg = sum / 4.0f;
-
         System.out.println("Sum     : " + sum);
         System.out.println("Average : " + avg);
     }
