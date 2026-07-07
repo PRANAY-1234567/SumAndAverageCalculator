@@ -42,9 +42,7 @@ import java.util.Scanner;
 class SumAverage {
     public static void main(String[] args) {
         Scanner kbin = new Scanner(System.in);
-
         int n1, n2, n3, n4;
-
         System.out.print("Enter first number  : ");
         n1 = kbin.nextInt();
 
