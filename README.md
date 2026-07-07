@@ -48,7 +48,6 @@ class SumAverage {
 
         System.out.print("Enter second number : ");
         n2 = kbin.nextInt();
-
         System.out.print("Enter third number  : ");
         n3 = kbin.nextInt();
 
