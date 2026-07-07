@@ -54,7 +54,6 @@ class SumAverage {
 
         System.out.print("Enter fourth number : ");
         n4 = kbin.nextInt();
-
         int sum = n1 + n2 + n3 + n4;
         float avg = sum / 4.0f;
         System.out.println("Sum     : " + sum);
